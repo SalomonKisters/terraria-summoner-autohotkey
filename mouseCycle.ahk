@@ -6,7 +6,7 @@ Process, Priority, , High  ; Set script process to high priority
 
 ; ========== CONFIGURATION SECTION ==========
 ; Add or remove keys from this array to customize your cycle
-KeysToSend := ["2", "3", "4"]  ; Change these to any keys you want to cycle through
+KeysToSend := ["3","4"]  ; Change these to any keys you want to cycle through
 
 ; Timing settings
 CycleInterval := 300     ; Time between key presses in milliseconds (0.5 seconds)
